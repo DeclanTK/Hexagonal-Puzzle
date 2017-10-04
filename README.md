@@ -1,7 +1,7 @@
 # Hexagonal-Puzzle
 A hexagonal mixup-solve puzzle game coded in python for a sophomore class project at Drexel University.
 
-Thanks for checking out our project! This is a self designed puzzle game, developed in Python with a team of 5 students. Using self selected images, and mathematics we created a puzzle game that mixes up its own hexagonal tiles for the user to then reorder them and solve the puzzle. Python concepts we used include: stacks, randomizing and self made functions, and conditional statements and loops.
+Thanks for checking out our project! This is a self designed puzzle game, developed in Python with a team of 5 students. Using self selected images, and mathematics we created a puzzle game that mixes up its own hexagonal tiles for the user to then reorder and solve the puzzle. Python concepts we used include: stacks, randomizing and self made functions, and conditional statements and loops.
 
 You'll find all of the image files, as well as all python files are included in this repository. All files must be downloaded in order for the game to function correctly and completely.
 
